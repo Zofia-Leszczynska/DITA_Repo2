@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Wine Guide</title>
+    <topicref href="topics/c_who_is_this_guide_for.dita"/>
+    <topicref href="topics/c_what_is_wine.dita"/>
+    <topicref href="topics/c_history_of_wine.dita"/>
+    <topicref href="topics/c_the_role_of_wine_in_culture.dita"/>
+    <topicref href="topics/t_harvesting_the_fruit.dita"/>
+    <topicref href="topics/t_preparing_the_mash.dita"/>
+    <topicref href="topics/t_fermentation.dita"/>
+    <topicref href="topics/r_equipment_list.dita"/>
+    <topicref href="topics/r_types_of_corks.dita"/>
+    <topicref href="topics/r_types_of_yeast.dita"/>
+</map>
